@@ -1,0 +1,1 @@
+Configuration{maximumTicketCapacity=1000, totalTickets=100, ticketReleaseRate=12, customerRetrievalRate=12}
